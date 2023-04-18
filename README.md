@@ -1,5 +1,3 @@
-# ImagesAndCss
-The images and css from Stickdroidz since the css and img not working
-If you want to use this stuff, please visit my website: https://stickdroidz.neocities.org/
- 
- (C) Dean Post 2023
+Hey there!
+idk how you ended up here, but what i do know that your on the wrong website, the right website is https://stickdroidz.neocities.org, this is the css and img host of that website. Cya there!
+   -Dean
