@@ -9,10 +9,10 @@ This isn't very well coded, though; if you're looking for a windowed style, you 
 
 
 body {
-  background: #98e9f4 url(https://sadhost.neocities.org/images/tiles/background.gif) /*  no-*/repeat fixed;
-  background-attachment: fixed;
+  background: #98e9f4 url(https://sadhost.neocities.org/images/tiles/background.gif) /*  no-*/repeat /*fixed*/;
+  /* background-attachment: fixed;
   background-position:center;
-	background-size: cover;
+	background-size: cover;*/
   color: #111123;
   font-family: 'Open Sans', 'Helvetica', sans-serif;
   font-size: 15px;
