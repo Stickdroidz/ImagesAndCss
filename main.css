@@ -9,7 +9,7 @@ This isn't very well coded, though; if you're looking for a windowed style, you 
 
 
 body {
-  background: #98e9f4 url(https://eggramen.neocities.org/xamag_skaia_3_optimized.png) no-repeat fixed;
+  background: #98e9f4 url(bg-img.png) no-repeat fixed;
   background-attachment: fixed;
   background-position:center;
 	background-size: cover;
